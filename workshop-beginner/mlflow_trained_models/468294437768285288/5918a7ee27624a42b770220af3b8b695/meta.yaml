@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/repos/openstef-workshop/workshop-beginner/mlflow_trained_models/468294437768285288/5918a7ee27624a42b770220af3b8b695/artifacts
+end_time: 1708330760927
+entry_point_name: ''
+experiment_id: '468294437768285288'
+lifecycle_stage: active
+run_id: 5918a7ee27624a42b770220af3b8b695
+run_name: '287'
+run_uuid: 5918a7ee27624a42b770220af3b8b695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708330753846
+status: 3
+tags: []
+user_id: AL28793
