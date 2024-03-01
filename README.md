@@ -10,11 +10,11 @@ Participants of the advanced workshop are expected to have basic knowledge on [J
 
 ## Preparation
 
-### Beginner
+### Beginner - no coding required
 
-1. Download the repository (find an elaborate guide [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). 
-2. Open an online notebook interface such as google collab or jupyter lab.
-3. Upload the data.
+1. Open an online notebook interface such as google collab or jupyter lab.
+   ![beginner-workshop](https://github.com/OpenSTEF/openstef-workshop/assets/18208480/def07639-b4c9-4944-854f-dbb6b754b3a8)
+3. Upload the _data/*.csv_ to the online environment
 4. Have fun with the workshop!
 
 ### Advanced
