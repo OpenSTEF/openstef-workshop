@@ -24,7 +24,7 @@ Participants of the advanced workshop are expected to have basic knowledge on [J
 Preparation for Windows
 
 1. Download the repository (find an elaborate guide [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). Remember the destination location. For example `C:\Users\YourUserName\Downloads\openstef-workshop`.
-2. Install [Python 3.10](https://www.python.org/downloads/release/python-31013/).
+2. Install [Python 3.11](https://www.python.org/downloads/release/python-3119/) (Not Python >= 3.12!).
 3. Open a terminal (Windows-Key + R, type cmd, press OK) and use the cd (change dir) command to navigate to the folder where you downloaded the workshop. For example:
 
 ```shell
