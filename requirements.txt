@@ -1,2 +1,2 @@
-openstef==3.4.33
+openstef==3.4.72
 jupyter==1.0
