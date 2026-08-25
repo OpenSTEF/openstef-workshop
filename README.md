@@ -1,5 +1,8 @@
 # OpenSTEF workshop
 
+> [!WARNING]
+> This repository will soon be archived as part of the OpenSTEF V3 deprecation. Please refer to [OpenSTEF V4](https://github.com/OpenSTEF/openstef) for the latest OpenSTEF version which includes example notebooks and tutorials to help you get started.
+
 This OpenSTEF workshop repository contains two workshops: a beginner workshop where no coding is required and a more advanced workshop where you through exercises you get to know OpenSTEF. Both contain the same three notebooks: ``Workshop_1_train_model``, ``Workshop_2_make_forecast``, and ``Workshop_3_perform_backtest``. 
 
 It is also recommended to look at the presentation of the workshop, to gain some basic understanding of OpenSTEF. You can find the presentation [here](https://github.com/OpenSTEF/openstef-workshop/blob/main/OpenSTEF_workshop_presentation.pdf). 
